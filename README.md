@@ -1,1 +1,1 @@
-# linearregression-singleparameter
+# linearregression-multipleparameter
